@@ -1,0 +1,1 @@
+# Minimercado_Blue_2.0
