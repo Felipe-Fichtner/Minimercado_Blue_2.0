@@ -41,7 +41,7 @@ GitHub Pages: Para hospedar o site e deixá-lo acessível a todos.
 🔗 Como ficou
 O site está no ar, em sua versão final e funcional! Você pode acessar por este link:
 
-https://felipe-fichtner.github.io/Minimercado_Blue/
+https://felipe-fichtner.github.io/Minimercado_Blue_2.0/
 
 📂 Como organizei tudo
 A estrutura de arquivos evoluiu para separar as responsabilidades:
